@@ -1,0 +1,21 @@
+1) pull lcd
+
+
+2) in order:
+
+cut
+ ICSP <-> PICp36
+ PICp38 <-> B1
+
+connect
+ ICSP <-> PICp38
+
+connect 
+ B1 <-> ?
+
+cut
+ LED1 (r3 is p/u) <-> PICp35
+
+connect 
+ LED1 <-> ?
+
